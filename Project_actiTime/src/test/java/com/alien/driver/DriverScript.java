@@ -115,6 +115,9 @@ public class DriverScript {
 				else if(testCaseCount == 0) {
 					System.out.println("Please select atleast one TEST SCRIPT to continue test execution");
 				}
+				else {
+					System.out.println("This else is just for git changes commit dummy");
+				}
 			}
 		}catch(Exception e)
 		{
